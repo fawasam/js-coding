@@ -1,0 +1,10 @@
+1 pagination
+2 global theme provider
+3 progress bar
+4 rating star
+5 model opens
+6 shuffle list
+7 dropdown countries and city
+8 infinite scroll like youtube
+9 counter ref 
+10 stop watch
